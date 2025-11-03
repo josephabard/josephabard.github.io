@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Hi, I’m Joe 👋  
 GIS & Data Science | Spatial Analytics | Open Data Advocate  
 
